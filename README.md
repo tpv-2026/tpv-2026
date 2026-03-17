@@ -24,7 +24,7 @@ Building secure CI/CD pipelines and automation systems
 
 ----------------------------------------------------------------------------
 
-## Cyrrent Focus: 
+## Current Focus: 
 - Advancing DevSecOps skills
 - Building real-world security projects
 - Preparing for cybersecurity roles
