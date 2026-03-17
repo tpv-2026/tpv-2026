@@ -1,8 +1,8 @@
 ## Hi, I'm Teodor Paskulov
 
-Final Year Software Engineering Student @ University of Greenwich 
-Aspiring DevSecOps/ Cyber Security Engineer
-Building secure CI/CD pipelines and automation systems
+- Final Year Software Engineering Student @ University of Greenwich 
+- Aspiring DevSecOps/ Cyber Security Engineer
+- Building secure CI/CD pipelines and automation systems
 
 ------------------------------------------------------------------------------
 
