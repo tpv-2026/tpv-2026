@@ -9,7 +9,7 @@
 ## Tech Stack: 
 - CI/CD Jenkins, GitHub Actions
 - Security: Trivy, OWASP Dependency Check, SAST/DAST
-- Containers: DOcker
+- Containers: Docker
 - Cloud: AWS (learning)
 - Languages: Python, Bash, JavaScript
 
