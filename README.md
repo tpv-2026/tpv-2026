@@ -23,6 +23,11 @@
 - Reducing the security risks early in development lifecycle
 
 ----------------------------------------------------------------------------
+## Another Interesting Project: 
+### Log-Analysis Tool (https://github.com/tpv-2026/Log-Analysis)
+
+- A Python-based log analysis tool that processes log files, parses structured data (INFO, ERROR), and outputs message insights and counts. Demonstrates core concepts in file handling, data parsing, and automation relevant to DevSecOps and cybersecurity workflows. 
+----------------------------------------------------------------------------
 
 ## Current Focus: 
 - Advancing DevSecOps skills
